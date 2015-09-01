@@ -1,2 +1,2 @@
 # hawkbot
-A robot designed to help small farms scare birds away from their crops.
+A robot designed to help small farms scare aviary pest away from their crops.
